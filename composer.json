@@ -1,5 +1,5 @@
 {
-    "name": "league/oauth2-avaza",
+    "name": "debiprasad/oauth2-avaza",
     "description": "Avaza OAuth 2.0 Client Provider for The PHP League OAuth2-Client",
     "license": "MIT",
     "authors": [
