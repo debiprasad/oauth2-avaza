@@ -7,7 +7,7 @@ This package provides Avaza OAuth 2.0 support for the PHP League's [OAuth 2.0 Cl
 To install, use composer:
 
 ```
-composer require league/oauth2-avaza
+composer require debiprasad/oauth2-avaza
 ```
 
 ## Usage
