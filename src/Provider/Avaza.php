@@ -52,7 +52,7 @@ class Avaza extends AbstractProvider
      */
     public function getResourceOwnerDetailsUrl(AccessToken $token)
     {
-        return $this->apiDomain.'api/UserProfile';
+        return $this->apiDomain.'api/UserProfile?CurrentUserOnly=true';
     }
 
     /**
